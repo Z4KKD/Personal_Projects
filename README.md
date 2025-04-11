@@ -1,4 +1,5 @@
 # Personal_Projects
+[AI Chat Bot with Django](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
 [Discord Blackjack bot C# Example](https://github.com/Z4KKD/C-DiscordBot) <br>
 [CSV-Sum-Calculator](https://github.com/Z4KKD/CSV-Sum-Calculator) <br>
