@@ -1,4 +1,5 @@
 # Personal_Projects
+[Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
 [AI Chat Bot with Django](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
 [Discord Blackjack bot C# Example](https://github.com/Z4KKD/C-DiscordBot) <br>
