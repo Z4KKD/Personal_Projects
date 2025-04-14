@@ -1,4 +1,4 @@
-# Personal_Projects
+# Personal_Projects 
 [Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
 [AI Chat Bot with Django](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
@@ -10,3 +10,4 @@
 [Wikipedia clone](https://github.com/Z4KKD/Wikipedia) <br>
 [Best home and away team performance in week 1 of college football](https://github.com/Z4KKD/College_Football)
 
+## [Small Projects](https://github.com/Z4KKD/Gists-Small_Projects)<br>
