@@ -1,4 +1,5 @@
 # Personal_Projects 
+[SpotifyPlaylistCreator](https://github.com/Z4KKD/SpotifyPlaylistCreator)<br>
 [Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
 [AI Chat Bot with Django](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
