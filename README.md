@@ -1,7 +1,8 @@
 # Personal_Projects 
+[Dockerized Java Code Execution Sandbox](https://github.com/Z4KKD/JavaCodeSandbox)<br>
 [SpotifyPlaylistCreator](https://github.com/Z4KKD/SpotifyPlaylistCreator)<br>
 [Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
-[AI Chat Bot with Django](https://github.com/Z4KKD/AI-Chatbot) <br>
+[Django Chatbot with OpenAI and OMDb](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
 [Discord Blackjack bot C# Example](https://github.com/Z4KKD/C-DiscordBot) <br>
 [CSV-Sum-Calculator](https://github.com/Z4KKD/CSV-Sum-Calculator) <br>
