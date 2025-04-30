@@ -5,7 +5,7 @@
 [Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
 [Django Chatbot with OpenAI and OMDb](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
-[Discord Blackjack bot C# Example](https://github.com/Z4KKD/C-DiscordBot) <br>
+[Discord RPG bot C](https://github.com/Z4KKD/Discord-RPG-BOT) <br>
 [CSV-Sum-Calculator](https://github.com/Z4KKD/CSV-Sum-Calculator) <br>
 [Portfolio Website **Repo**](https://github.com/Z4KKD/Personal-Portfolio-Website) /// [**Portfolio Website Link**](https://z4kkd.netlify.app/)<br>
 [Craps Game](https://github.com/Z4KKD/Craps_Game) <br>
