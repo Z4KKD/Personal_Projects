@@ -1,8 +1,8 @@
 # Personal_Projects 
-[Full-stack fitness tracker with gamification](https://github.com/Z4KKD/fittribe)<br>
-[Interactive data visualization tool](https://github.com/Z4KKD/Data-visualization-tool) <br>
-[Dockerized Java Code Execution Sandbox](https://github.com/Z4KKD/JavaCodeSandbox)<br>
-[SpotifyPlaylistCreator](https://github.com/Z4KKD/SpotifyPlaylistCreator)<br>
+[FitTribe - Social Fitness Tracker ( WordPress + FastAPI + Go )](https://github.com/Z4KKD/fittribe)<br>
+[Interactive Data Visualization Tool ( React + D3.js + Flask + pandas + PostgreSQL + Vite )](https://github.com/Z4KKD/Data-visualization-tool) <br>
+[Code Playground API ( Java + Docker + Spring Boot )](https://github.com/Z4KKD/JavaCodeSandbox)<br>
+[SpotifyPlaylistCreator (React + Node.js + Spotify API)](https://github.com/Z4KKD/SpotifyPlaylistCreator)<br>
 [Bug Tracker API](https://github.com/Z4KKD/bug-tracker-backend)<br>
 [Django Chatbot with OpenAI and OMDb](https://github.com/Z4KKD/AI-Chatbot) <br>
 [Discord Gambling Bot For Friends](https://github.com/Z4KKD/DiscordBot) <br>
